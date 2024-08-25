@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hirok1n0.github.io/sitemap.xml
+Sitemap: https://hirota-kinoshita.github.io/sitemap.xml
